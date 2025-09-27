@@ -23,3 +23,12 @@ packages/
 *.cache/
 Thumbs.db
 *.DS_Store
+
+# Ignore all .zip anywhere
+*.zip
+
+# Ignore “Instructions” only at repo root
+/Instructions/
+
+# Ignore a specific file (with space in name)
+Ex03/B24 Ex03 Itay 208277574 Nimrod 208082735.docx
