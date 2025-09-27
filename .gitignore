@@ -1,0 +1,25 @@
+# Build/outputs
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+TestResults/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# Packages & misc
+packages/
+*.nupkg
+*.log
+*.user
+*.suo
+*.tmp
+*.cache/
+Thumbs.db
+*.DS_Store
